@@ -1,3 +1,4 @@
+
 h1{
     color:blue;
     border: 2px black solid;
@@ -6,7 +7,7 @@ nav{
     color: black;
     background-color: coral;
     display: flex;
-    gap:100px;
+    /* gap:10em; */
 }
 nav a {
     color: #000;
@@ -18,8 +19,13 @@ nav a {
     background-color: gray;
 }
 img {
-    height: 200px;
-    width: 200px;
+    /* height: 20em; */
+    width: 80%;
+    border: 5px blue solid;
+    border-radius: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 img:hover{
     cursor: pointer;
