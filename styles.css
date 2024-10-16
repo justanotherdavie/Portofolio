@@ -1,0 +1,26 @@
+h1{
+    color:blue;
+    border: 2px black solid;
+}
+nav{
+    color: black;
+    background-color: coral;
+    display: flex;
+    gap:100px;
+}
+nav a {
+    color: #000;
+}
+.fave {
+    background-color: aqua;
+}
+.notfave {
+    background-color: gray;
+}
+img {
+    height: 200px;
+    width: 200px;
+}
+img:hover{
+    cursor: pointer;
+}
