@@ -2,12 +2,15 @@ body {
     display: flex;
     flex-direction: column;
   align-items: center;
+  margin-left: 2px;
+  margin-right: 2px;
+  background-image: linear-gradient(blue,violet, black);
     /* justify-content: center; */
 }
 h1{
-    font-size: larger;
-    color:blue;
+    
     border: 2px black solid;
+    text-align: center;
 }
 nav{
     color: black;
