@@ -15,7 +15,7 @@ h1{
 nav{
     color: black;
     background-color: coral;
-    display: flex;
+    display:block;
     /* gap:10em; */
 }
 nav a {
@@ -28,8 +28,8 @@ nav a {
     background-color: gray;
 }
 img {
-    height: 20em;
-    width: 50%;
+    height: 300px;
+    width: 60%;
     border: 5px blue solid;
     border-radius: 20px;
     display: block;
